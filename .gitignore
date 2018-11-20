@@ -1,0 +1,5 @@
+*.zip
+matsim-*
+venv/
+.idea/
+.ipynb_checkpoints/
